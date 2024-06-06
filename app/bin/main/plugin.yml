@@ -1,0 +1,7 @@
+name: ToolBox
+version: 1.0.0
+main: dev.mnyacat.toolbox.ToolBoxPlugin
+description: ワールド製作者向けの便利アイテムを追加するプラグイン
+author: MnyaCat
+website: https://github.com/MnyaCat
+api-version: '1.20'

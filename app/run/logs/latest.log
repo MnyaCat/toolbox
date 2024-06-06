@@ -1,0 +1,60 @@
+[23:45:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:45:19] [ServerMain/INFO]: Loaded 1174 recipes
+[23:45:19] [ServerMain/INFO]: Loaded 1271 advancements
+[23:45:19] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[23:45:19] [Server thread/INFO]: Loading properties
+[23:45:19] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[23:45:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:45:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:45:20] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[23:45:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[23:45:20] [Server thread/INFO]: Default game type: CREATIVE
+[23:45:20] [Server thread/INFO]: Generating keypair
+[23:45:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:45:20] [Server thread/INFO]: Using default channel type
+[23:45:20] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[23:45:20] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[23:45:20] [Server thread/INFO]: [ToolBox] Loading server plugin ToolBox v1.0.0
+[23:45:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:45:20] [Server thread/INFO]: Preparing level "pvp"
+[23:45:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:45:21] [Server thread/INFO]: Time elapsed: 142 ms
+[23:45:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:45:21] [Server thread/INFO]: Time elapsed: 31 ms
+[23:45:21] [Server thread/INFO]: [ToolBox] Enabling ToolBox v1.0.0
+[23:45:21] [Server thread/INFO]: Running delayed init tasks
+[23:45:21] [Server thread/INFO]: Done (1.706s)! For help, type "help"
+[23:45:21] [Server thread/INFO]: Timings Reset
+[23:45:23] [User Authenticator #0/INFO]: UUID of player MnyaCat is 7f945ebf-b0df-420e-87ba-fbe97c02d587
+[23:45:23] [Server thread/INFO]: MnyaCat joined the game
+[23:45:23] [Server thread/INFO]: MnyaCat[/127.0.0.1:59368] logged in with entity id 11 at ([pvp]62.708630531330066, 0.0, 7.518267537093841)
+[23:45:26] [Server thread/INFO]: MnyaCat issued server command: /gb
+[23:46:04] [Server thread/INFO]: MnyaCat issued server command: /ga
+[23:49:58] [Server thread/INFO]: MnyaCat issued server command: /givecleareffect
+[23:50:02] [Server thread/INFO]: MnyaCat issued server command: /giveelixir
+[23:50:06] [Server thread/INFO]: MnyaCat issued server command: /giveswitchadventure
+[23:50:14] [Server thread/INFO]: MnyaCat issued server command: /give
+[23:50:22] [Server thread/INFO]: MnyaCat issued server command: /gs
+[23:50:26] [Server thread/INFO]: MnyaCat issued server command: /giveteleporter
+[23:50:37] [Server thread/INFO]: MnyaCat issued server command: /addalleffect
+[23:50:56] [Server thread/INFO]: MnyaCat issued server command: /addalleffect
+[23:51:04] [Server thread/INFO]: MnyaCat issued server command: /resetfoodlevel
+[23:51:18] [Server thread/INFO]: MnyaCat issued server command: /addalleffect
+[23:52:35] [Server thread/WARN]: MnyaCat moved too quickly! 18.0,1.0,-17.0
+[23:52:39] [Server thread/WARN]: MnyaCat moved too quickly! 0.0092249422607793,0.0,-10.021426949361572
+[23:52:51] [Server thread/WARN]: MnyaCat moved too quickly! -61.99538723327015,0.0,-130.5845956381982
+[23:52:51] [Server thread/WARN]: MnyaCat moved too quickly! -61.99538723327015,0.0,-130.5845956381982
+[23:52:53] [Server thread/WARN]: MnyaCat moved too quickly! 17.0,0.0,37.0
+[23:52:53] [Server thread/WARN]: MnyaCat moved too quickly! 17.0,0.0,37.0
+[23:52:54] [Server thread/WARN]: MnyaCat moved too quickly! 17.0,0.0,37.0
+[23:52:54] [Server thread/WARN]: MnyaCat moved too quickly! 17.0,0.0,37.0
+[23:52:54] [Server thread/WARN]: MnyaCat moved too quickly! 17.0,0.0,37.0
+[23:52:54] [Server thread/WARN]: MnyaCat moved too quickly! 17.0,0.0,37.0
+[23:52:58] [Server thread/WARN]: MnyaCat moved too quickly! -16.0,0.0,1.0
+[23:53:05] [Server thread/WARN]: MnyaCat moved too quickly! 55.43343411557883,-22.032601299015923,43.67077252225554
+[23:53:05] [Server thread/WARN]: MnyaCat moved too quickly! 55.43343411557883,-22.032601299015923,43.67077252225554
+[23:53:14] [Server thread/INFO]: MnyaCat issued server command: /gb
+[23:53:54] [Server thread/INFO]: MnyaCat lost connection: Disconnected
+[23:53:54] [Server thread/INFO]: MnyaCat left the game
